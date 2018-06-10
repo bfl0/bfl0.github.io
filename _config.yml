@@ -5,8 +5,8 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: Your awesome site name :)
-header: Write something about you here...
+title: Awesome shit for awesome dudes.
+header: This right here!
 
 # for welcome page
 # to replace image go to index.html
@@ -22,7 +22,7 @@ disqus:
 google:
     tracking-id: "" #your tracking id here
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
