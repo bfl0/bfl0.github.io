@@ -6,7 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: Awesome shit for awesome dudes.
-header: This right here! Amazine.
+header: This right here! Amazing.
 
 # for welcome page
 # to replace image go to index.html
