@@ -2,13 +2,31 @@
 ---
 /* main */
 
+$dummy-color: #EC4E3B;
+/* version 0
+$p-color: #EC4E3B; //primary/hover color
+$h-color: #B3D1F0; //secondary/header color
+$h3-color: #b6b6b6; //h3/th color
+$l-color: #49B1F7; //links/highlights color
+$d-color: #A3BFC6; //default/text color
+$bg-color: #0b0c10; //background color
+*/
+
+$p-color: #66ffcc; //primary/hover color
+$h-color: #C5C6C7; //secondary/header color
+$h3-color: #45A29E; //h3/th color
+$l-color: #45A29E; //links/highlights color
+$d-color: #A3BFC6; //default/text color
+$bg-color: #0b0c10; //background color
+
 body {
   padding: 0px 0 20px 0px;
   margin: 0px;
   font: 14px/1.5 'Open Sans', sans-serif;
-  color: #A3BFC6 ;
+  color: $d-color;
   font-weight: normal;
-  background: {{ site.data.theme.bg }};
+  //background: {{ site.data.theme.bg }};
+  background: $bg-color;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -19,7 +37,7 @@ body {
 {% endunless %}
 
 h1, h2, h3, h4, h5, h6 {
-  color:#B3D1F0;
+  color: $h-color;
   margin: 0 0 10px;
   font-family: 'Open Sans', sans-serif;
   font-weight: normal;
@@ -46,17 +64,17 @@ h3 {
   line-height: 24px;
   font-family: 'Open Sans', sans-serif;
   font-weight: normal;
-  color: #b6b6b6;
+  color: $h3-color;
 }
 
 a {
-  color: #49B1F7;
+  color: $l-color;
   font-weight: 400;
   text-decoration: none;
 }
 
 a:hover {
-  color: #EC4E3B;
+  color: $p-color;
 }
 
 a:hover, a:active, a:focus, a:visited  {
@@ -91,7 +109,7 @@ th {
   text-align: left;
   padding: 5px 10px;
   border-bottom: 1px solid #424242;
-  color: #b6b6b6;
+  color: $h3-color;
   font-family: 'Open Sans', sans-serif;
   font-weight: normal;
 }
@@ -105,7 +123,7 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #49B1F7;
+  border-bottom: 1px dashed $l-color;
 }
 
 dt {
@@ -132,7 +150,7 @@ section {
     }
 
     p {
-      color: #B3D1F0;
+      color: $h-color;
       font-family: 'Open Sans', sans-serif;
       font-weight: 100;
       font-size: 18px;
@@ -159,7 +177,7 @@ section {
   }
 
   .p-title{
-    color: #49B1F7;
+    color: $l-color;
   }
 }
 
@@ -177,7 +195,7 @@ section {
   margin: 0 0 10px;
   font-family: 'Open Sans', sans-serif;
   font-weight: normal;
-  color: #A3BFC6;
+  color: $d-color;
 }
 
 .tags{
@@ -202,7 +220,7 @@ section {
 #header #sitename,
 .resume span,
 .resume h2 {
-  color: #EC4E3B;
+  color: $p-color;
 }
 
 #sitename{
@@ -214,5 +232,5 @@ mark, .mark {
 }
 
 .orng{
-  color: #EC4E3B;
+  color: $p-color;
 }

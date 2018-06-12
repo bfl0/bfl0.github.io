@@ -1,9 +1,22 @@
 ---
 layout: welcome
-welcome_img: "https://i.imgur.com/zbnxHFy.png"
+welcome_img: "https://i.imgur.com/qdnAweH.png"
 ---
 
 <div class="text-center">
-  <img class="circular" src="{{page.welcome_img}}" >
-  <p>contact me <a href="mailto:{{site.email.address}}">{{site.email.text}}</a></p>
+  <img class="circular" src="{{page.welcome_img}}">
+  <p></p>
+  </br>
+  <div class="col-sm-3"></div>
+  <div class="row">
+    <form method="POST" action="https://formspree.io/{{site.email.address}}">
+      <div class="form-group col-sm-6">
+        <p class="form-title">Hit me up.</p>
+        <input type="email" name="email" placeholder="Your email" class="form-control contact-form">
+        <textarea name="message" placeholder="Your message" class="form-control contact-form"></textarea>
+        <button type="submit" class="btn btn-link pull-right">Send</button>
+      </div>
+      <div class="col-sm-3"></div>
+    </form>
+  </div>
 </div>

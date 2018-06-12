@@ -1,0 +1,36 @@
+---
+---
+
+//Custom SCSS
+
+.header-main{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2em;
+}
+
+.form-title {
+    margin-bottom: 0.5em;
+    text-align: left;
+}
+
+form input, form textarea {
+    margin-bottom: 0.5em;
+}
+
+.form-group{
+    padding-right: 2.2em;
+}
+
+.contact-form {
+    font-size: .9em;
+    padding: .5em;  
+}
+
+
+.btn-link {
+    color:#45A29E;
+}
+
+.btn-link:hover {
+    color:#66ffcc;
+}
