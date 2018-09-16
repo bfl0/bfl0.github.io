@@ -4,8 +4,8 @@
 //Custom SCSS
 
 .header-main{
-  font-family: 'Permanent Marker', cursive;
-  font-size: 2em;
+  font-family: 'Crete Round', serif;
+  font-size: 30px;
 }
 
 .form-title {
@@ -28,9 +28,16 @@ form input, form textarea {
 
 
 .btn-link {
-    color:#45A29E;
+    color:#333;
 }
 
 .btn-link:hover {
-    color:#66ffcc;
+    color:#cc3366;
+}
+
+#contactMe{
+  font-family: 'Cousine', monospace;
+  font-weight: normal;
+  font-size: 15px;
+  color: #333;
 }
