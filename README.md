@@ -1,22 +1,11 @@
-# Autm-rb
+## This blog is made possible using Autm-rb Theme for Jekyll
 
-Another theme for jekyll.
+Check it out here: https://github.com/kirqe/autm-rb 
 
-## [DEMO][demo]
+## Built with:
 
-## Customization
+* [Jekyll](https://jekyllrb.com/)
+* [Github](https://github.com/)
+* [Github Pages](http://pages.github.com)
 
-Edit **_config.yml** and files inside **_data/** before using
-
-## Screens
-
-![](screenshots/home.png)
-![](screenshots/post.png)
-
-## Licensing
-
-[MIT](https://github.com/railsr/autm-rb/blob/master/LICENSE)
-
-[pages]: http://pages.github.com
-[fork]: https://github.com/railsr/autm-rb/fork
-[demo]: http://kirqe.github.io/autm-rb/
+#Not Yet Fork Friendly.. I'll get to this soon.
