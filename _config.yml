@@ -17,7 +17,7 @@ email:
 
 # disqus comment
 disqus:
-    shortname: "bfl0github" #your disqus comment short name
+    shortname: "https-bfl0-github-io" #your disqus comment short name
 
 # google analytics
 google:
