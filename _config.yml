@@ -1,6 +1,6 @@
 #baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-#baseurl: "https://bfl0.github.io/p/" Uncomment this for live 
-baseurl: ""
+#baseurl: "https://bfl0.github.io/" Uncomment this for live 
+baseurl: "https://bfl0.github.io"
 url: "bfl0.github.io" # the base hostname & protocol for your site.
 
 paginate: 6 #articles per page
