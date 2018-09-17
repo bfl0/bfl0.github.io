@@ -1,55 +1,11 @@
 text: |
 
-  Write something about yourself here using markdown.
+ > No matter where life takes me, find me with a smile
 
-  ## Lists
+ I really believe that there is always a bright side on things which is why I chose this line from Mac's song(Best Day Ever).
 
-  Unordered
+ This blog, is a project and a safe place for me to post things and stuff. 
 
-  + Create a list by starting a line with `+`, `-`, or `*`
-  + Sub-lists are made by indenting 2 spaces:
-    - Marker character change forces new list start:
-      * Ac tristique libero volutpat at
-      + Facilisis in pretium nisl aliquet
-      - Nulla volutpat aliquam velit
-  + Very easy!
+ Wether it'll be a new hiphop song or a new tech I learned or a picture that inspires me. 
 
-  Ordered
-
-  1. Lorem ipsum dolor sit amet
-  2. Consectetur adipiscing elit
-  3. Integer molestie lorem at massa
-
-
-  1. You can use sequential numbers...
-  1. ...or keep all the numbers as `1.`
-
-  Start numbering with offset:
-
-  57. foo
-  1. bar
-
-  ## Tables
-
-  | Option | Description |
-  | ------ | ----------- |
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
-
-  Right aligned columns
-
-  | Option | Description |
-  | ------:| -----------:|
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
-
-
-  ## Links
-
-  [link text](https://github.com)
-
-  [link with title](https://github.com/ "title text!")
-
-  Autoconverted link https://github.com (enable linkify to see)
+ I'll post it here.

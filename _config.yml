@@ -7,7 +7,7 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: Welcome 
+title: everything is alright 
 header:  Bon Jovi Flores //Developer
 
 # for welcome page
