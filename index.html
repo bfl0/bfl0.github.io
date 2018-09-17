@@ -1,9 +1,20 @@
 ---
 layout: welcome
-welcome_img: "https://igcdn-photos-a-a.akamaihd.net/hphotos-ak-xpa1/t51.2885-15/e15/11208586_1596699727213864_1958685864_n.jpg"
+welcome_img: "https://s33.postimg.cc/ocypv5skv/gokudmg.jpg"
 ---
 
 <div class="text-center">
-  <img class="circular" src="{{page.welcome_img}}" >
-  <p>contact me <a href="mailto:{{site.email.address}}">{{site.email.text}}</a></p>
+  <img width="350" height="308"src="{{page.welcome_img}}">
+    <span class="credits center-block social">
+      <span id="contactMe">Contact me:</span>
+    {% for sl in site.data.personal.social %}
+      {% unless sl[1] == '' %}
+        <a href="{{sl[1]}}" target="_blank"><i class="fa fa-{{sl[0]}}"></i></a>
+      {% endunless %}
+    {% endfor %}
+  </span>
+  <p></p>
+  </br>
+  <div class="row">
+  </div>
 </div>

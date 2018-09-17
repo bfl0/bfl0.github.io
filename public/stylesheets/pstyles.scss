@@ -1,0 +1,43 @@
+---
+---
+
+//Custom SCSS
+
+.header-main{
+  font-family: 'Crete Round', serif;
+  font-size: 30px;
+}
+
+.form-title {
+    margin-bottom: 0.5em;
+    text-align: left;
+}
+
+form input, form textarea {
+    margin-bottom: 0.5em;
+}
+
+.form-group{
+    padding-right: 2.2em;
+}
+
+.contact-form {
+    font-size: .9em;
+    padding: .5em;  
+}
+
+
+.btn-link {
+    color:#333;
+}
+
+.btn-link:hover {
+    color:#cc3366;
+}
+
+#contactMe{
+  font-family: 'Cousine', monospace;
+  font-weight: normal;
+  font-size: 15px;
+  color: #333;
+}
