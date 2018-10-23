@@ -1,7 +1,8 @@
 ---
 title: "Design, Hiphop and the NBA"
-tags: [logo][design][hiphop][music][album][nba][sports]
+tags: [logo][design][hiphop][music][album][nba][sports] 
 ---
+
 Aaaaand we're back. After a long time, a few weeks, a month? a couple? Anyway, I'm here I'm back. 
 
 Finally had the time to write one up. This is me writing this blog while the song Better by Khalid is playing in the background.
