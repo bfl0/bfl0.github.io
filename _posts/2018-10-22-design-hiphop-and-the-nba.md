@@ -20,6 +20,7 @@ And this is the final design. I'm hoping there wont be anymore changes as I'm qu
 ![final](https://i.postimg.cc/k4X2Z0tB/april3f.png)
 ## This time in Hiphop
 ![WEFUCKINGATE](https://i.postimg.cc/cHQF98ws/album.png)
+
 2018 in hiphop is historical. Albums from legends started pouring this year. 
 Nas dropped a 7-song album by G.O.O.D. Music. Well multiple artists from the label got their 7 song.
 Kanye dropped Ye, Pusha T with DAYTONA, Kanye and Kudi(maaan) with Kids See Ghosts. Then there Taeyana Taylor the come up for the same label.
@@ -29,6 +30,7 @@ Eminem dropped an album, Kamikazee which compared to his past albums, Kamikazee 
 Drake, dropped Scoprion, Travis Scott dropped his well waited album Astroworld. Probably the most hyped up album if it weren't for Lil Wayne's Carter V which dropped this same fucking year. 
 
 Other 2018 Albums (those I fuck with):
+
 |Artist          |Album|
 |----------------|-------------------------------|
 |J Cole          |**KOD**         |
