@@ -1,6 +1,6 @@
 ---
 title: "Design, Hiphop and the NBA"
-tags: [logo][design][hiphop][music][album][nba][sports] 
+tags: [logo, design, hiphop, music, album, nba, sports] 
 ---
 
 Aaaaand we're back. After a long time, a few weeks, a month? a couple? Anyway, I'm here I'm back. 
