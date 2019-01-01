@@ -1,12 +1,16 @@
 ---
-title: resume
+title: about
 permalink: "about/index.html"
 layout: default
+me_img: "https://i.postimg.cc/Hn1y6dMJ/Me.png"
 ---
 
 <div class="resume row">
   <div class="col-md-12">
     <div id="about_me">
+      <div class="text-center">
+        <img width="433" height="467"src="{{page.me_img}}" >
+      </div>
       <h2>About</h2>
       <p>{{site.data.about.text | markdownify }}</p>
     </div>

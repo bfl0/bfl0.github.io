@@ -12,14 +12,14 @@ A coleague ask for my help to design her budding business a logo.
 Its a very simple logo, she gave me some inspirations to work on. I, being excited as hell, worked on it.
 
 Here are some of the designs I gave her.
-![first designs](https://i.postimg.cc/59g3XJmk/0.png)
+![first designs](https://i.postimg.cc/59g3XJmk/0.png){: .center-image }
 
-![second design](https://i.postimg.cc/L6sVfWC4/0a.png)
+![second design](https://i.postimg.cc/L6sVfWC4/0a.png){: .center-image }
 
 And this is the final design. I'm hoping there wont be anymore changes as I'm quite happy with it. Really wish she shares the same sentiment.
-![final](https://i.postimg.cc/k4X2Z0tB/april3f.png)
+![final](https://i.postimg.cc/k4X2Z0tB/april3f.png){: .center-image }
 ## This time in Hiphop
-![WEFUCKINGATE](https://i.postimg.cc/cHQF98ws/album.png)
+![WEFUCKINGATE](https://i.postimg.cc/cHQF98ws/album.png){: .center-image }
 
 2018 in hiphop is historical. Albums from legends started pouring this year. 
 Nas dropped a 7-song album by G.O.O.D. Music. Well multiple artists from the label got their 7 song.
@@ -48,7 +48,7 @@ Before 2018 calls it a wrap, we still have 2 months left.
 NBA is also back, baby. Dwight is now with the Wizards, they haven't won yet(0-2). He still isn't playing though has some "Ass Pain".
 
 Last game they lost to a Raptors without Kawhi at home. lmao
-![D21?](https://i.postimg.cc/qBNsvKzg/dwight-howard-iso-photo-shoot-wizards.jpg)
+![D21?](https://i.postimg.cc/qBNsvKzg/dwight-howard-iso-photo-shoot-wizards.jpg){: .center-image }
 
 
 Also since Lebron now is in a purple and gold jersey, they also haven't won shit. 0-2 after a scuffle with the Rockets team. Yep! saliva were spat and punches were thrown.
