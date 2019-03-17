@@ -8,7 +8,7 @@ First of...
 
 ## Jojo's Bizaare Adventure.
 
-![ORAORAORAORAORAORAORA](https://i.postimg.cc/8sLt6Nwk/anime3.jpg){: .center-image }
+![ORAORAORAORAORAORAORA](https://i.postimg.cc/SsKtjn5m/jojo.png){: .center-image }
 
 Probably one of the most meme'd anime of all time. It started on a typical super powered human themes in the first season and slowly change to still super powered humans but now with super powered spirit(stands) beside them. The story differs from what the first couple of seasons the most because that time there were no stands. Overall I liked it. Hirohiko Araki, the author, was very forward with the character designs. It was so forward GUCCI collaborated with him on a collection. Crazy.
 
@@ -20,7 +20,7 @@ This film took me back to my childhood. I know they went back with the way they 
 
 ## Mob Pysho 100
 
-![You've grown, Mob. - Reigen](https://i.postimg.cc/0K1nBB5q/anime1.jpg){: .center-image }
+![You've grown, Mob. - Reigen](https://i.postimg.cc/d06xq25W/mob.png){: .center-image }
 
 My god, I never thought ONE, the author of One Punch Man has another amazing Manga/Anime in him.
 
