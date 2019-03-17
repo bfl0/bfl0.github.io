@@ -14,7 +14,7 @@ Probably one of the most meme'd anime of all time. It started on a typical super
 
 ## Dragonball Broly (Movie) 
 
-![Y'all ready know who won.](https://i.postimg.cc/hQ8sW1hQ/anime2.jpg){: .center-image }
+![Y'all ready know who won.](https://i.postimg.cc/5tbrd7SY/dragon.png){: .center-image }
 
 This film took me back to my childhood. I know they went back with the way they draw the film and it really payed off. Perfect blend of old and new schools. Now, Broly has a decent backstory. And the way the fight scenes were orchastrated was sublime. If there will be another movie like this for DragonBall, you'd bet I'll watch it in the big screen.
 
